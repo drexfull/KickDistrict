@@ -16,7 +16,7 @@ No JavaScript was used.
 - GitHub Pages
 
 ## Live Website
-https://username.github.io/project-name/
+https://username.github.io/KickDistrict/
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
